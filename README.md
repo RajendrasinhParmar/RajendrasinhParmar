@@ -1,5 +1,11 @@
 ### Hi there 👋
+I'm Rajendrasinh Parmar.
 
+<p align="center">
+	<a href="https://github.com/RajendrasinhParmar"><img src="https://img.shields.io/github/followers/RajendrasinhParmar.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/RAJENDRASINH_09"><img src="https://img.shields.io/twitter/follow/Rajendrasinh_09?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/rajendrasinh-parmar-82a09938/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
 <!--
 **RajendrasinhParmar/RajendrasinhParmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
