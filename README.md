@@ -12,6 +12,8 @@ I'm Rajendrasinh Parmar.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajendrasinhParmar&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://app.daily.dev/Rajendrasinh"><img src="https://api.daily.dev/devcards/2b60d595973848e2aa8474a02e3d4e76.png?r=g0g" width="400" alt="Rajendrasinh Parmar's Dev Card"/></a>
+
 <!--
 **RajendrasinhParmar/RajendrasinhParmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
